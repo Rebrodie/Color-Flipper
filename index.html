@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Color Changer</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: Lato;
+        width: 100%;
+        min-height: 100vh;
+        /* color: hsl(0, 0%, 18%); */
+      }
+      nav {
+        padding: 1.25rem;
+        width: 100%;
+        box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+          rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+        > h1 {
+          font-size: 2rem;
+          font-weight: 900;
+          text-align: center;
+        }
+      }
+      main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        width: 100%;
+        gap: 1.25rem;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        > h1 {
+          font-size: 4rem;
+          font-weight: 900;
+        }
+        > button {
+          border-radius: 8px;
+          padding: 1rem 2.75rem;
+          font-weight: 700;
+          outline: none;
+          border: none;
+          cursor: pointer;
+          box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+            rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+          transition: all 250ms ease-in-out;
+        }
+        > button:hover {
+          background: #eee2e5;
+          transform: scale(1.05);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <h1>Color Changer</h1>
+    </nav>
+    <main>
+      <h1 id="text"></h1>
+      <button id="btn" onclick="changeColor()">Change</button>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
