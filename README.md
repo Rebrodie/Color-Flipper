@@ -34,7 +34,8 @@ You can view a live demo of the Background Color Flipper project [here](#).
 
 
 # Screenshots
-
+![Desktop View](./Assets/DesktopView.jpeg)
+![Mobile View](./Assets/MobileView.jpeg)
 
 # Follow Me
 - [Twitter](https://twitter.com/Re_brodie)
