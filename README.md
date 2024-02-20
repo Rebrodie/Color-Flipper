@@ -8,7 +8,7 @@ Welcome to the Background Color Flipper project! This project is part of the Jav
 - [Features](#Features)
 - [Usage](#Usage)
 - [Screenshots](#Screenshots)
-- [Follow Me](#Follow)
+- [Follow Me](#Follow Me)
 
 ## Demo
 
