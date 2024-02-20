@@ -1,13 +1,14 @@
-# Background Color Flipper
+# Background Color Flipper (1/40)
 
 Welcome to the Background Color Flipper project! This project is part of the JavaScript projects series from [freeCodeCamp](https://www.freecodecamp.org/news/javascript-projects-for-beginners/). It's a simple web application that allows you to change the background color by clicking a button.
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Demo](#Demo)
+- [Features](#Features)
+- [Usage](#Usage)
+- [Screenshots](#Screenshots)
+- [Follow Me](#Follow)
 
 ## Demo
 
@@ -34,7 +35,11 @@ You can view a live demo of the Background Color Flipper project [here](#).
 
 
 # Screenshots
+
+## Desktop View
 ![Desktop View](./Assets/DesktopView.jpeg)
+
+## Mobile View
 ![Mobile View](./Assets/MobileView.jpeg)
 
 # Follow Me
