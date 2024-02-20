@@ -8,11 +8,11 @@ Welcome to the Background Color Flipper project! This project is part of the Jav
 - [Features](#Features)
 - [Usage](#Usage)
 - [Screenshots](#Screenshots)
-- [Follow Me](#Follow Me)
+- [Follow Me](#Follow-Me)
 
 ## Demo
 
-You can view a live demo of the Background Color Flipper project [here](#).
+You can view a live demo of the Background Color Flipper project [here](https://rebrodie.github.io/Color-Flipper/).
 
 ## Features
 
