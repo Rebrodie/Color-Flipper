@@ -30,5 +30,5 @@ Process: []()
 ![Mobile View](./Assets/MobileView.jpeg)
 
 # Follow Me
-- Youtube - [Youtube]()
-- Twitter - [Twitter](https://twitter.com/Re_brodie)
+- Youtube - [@RebrodieCode](https://www.youtube.com/channel/UCV3pxcx9ALp99txTD6KF3Wg)
+- Twitter - [@rebrodiecode](https://twitter.com/rebrodiecode)
